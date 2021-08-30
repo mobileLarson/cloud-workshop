@@ -1,22 +1,21 @@
-import logo from './logo.svg';
+import cloud from './cloud.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={cloud} className="App-logo" alt="logo" />
+        <p />
         <p>
-          Amplified React App v4
+          Amplified Cloud App v0.1
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://openknowledge.de"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        >open knowledge </a>
       </header>
     </div>
   );
