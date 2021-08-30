@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Amplified React App v2 
+          Amplified React App v4
         </p>
         <a
           className="App-link"
